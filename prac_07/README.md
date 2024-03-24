@@ -3,7 +3,7 @@
 # Clean Code Principles in CP1404
 
 # About the Repo and Myself
-This repository serves as a collection of my learnings and assignments from the CP1404 course, focusing on the principles of clean code and programming patterns. As a student of this course, I've been dedicated to enhancing my coding practices to write more readable, efficient, and maintainable code. My journey through CP1404 has been both challenging and rewarding, providing me with a solid foundation in software development principles.
+This repository serves as a collection of my learnings and assignments from the CP1404 course, focusing on the principles of clean code and programming patterns. As a student of this course, I've been dedicated to enhancing my coding practices to write more readable, efficient, and maintainable code. 
 
 # Lessons Learned
 Readability Over Complexity: One of the most critical lessons learned is the importance of writing code that is easy to read and understand by humans, not just machines. Simple and clear code often leads to fewer bugs and easier maintenance.
