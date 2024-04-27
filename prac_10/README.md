@@ -6,6 +6,9 @@
 
 # Code Reviews
 # Prac 06
+https://github.com/WhiteDarkTarot/cp1404practicals/pull/1
+I found some shortcomings at work, but the modifications were completed before git push. Then I asked my classmates to conduct a commit-assisted review, which also showed that there were no problems. This practice has achieved good results.
 
-
-# Prac 08
+# Prac 07
+https://github.com/WhiteDarkTarot/cp1404practicals/pull/2
+I found that there were basically no big problems with my assignments, and then I asked my classmates to submit assisting reviewers, and they also said there were no problems. Such practice has achieved good results.
